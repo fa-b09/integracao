@@ -12,6 +12,7 @@ Graças à configuração do `.devcontainer`, o ambiente já vem com o Java e o 
    chmod +x run.sh
    ./run.sh
 
+![Demonstração do Sistema](demo.gif)
 
    🏗️ Arquitetura do Sistema
 Java (App.java): Responsável pela captura de dados, tratamento de erros (validação de números e vírgulas) e orquestração do processo.
